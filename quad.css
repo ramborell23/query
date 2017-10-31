@@ -1,0 +1,41 @@
+#topright{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    left: 648px;
+    background-color: blue;
+ 
+    
+}
+#topleft{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background-color: green
+    
+}
+#bottomright{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background-color: yellow;
+    left: 648px;
+    top: 353px;
+    
+}
+#bottomleft{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background-color: black;
+    top: 353px;
+    
+}
+
+#refresh{
+    position:absolute;
+    width: 25%;
+    height: 25%;
+    top:345px;
+    left:605px;
+}
